@@ -1,5 +1,5 @@
-java\com\ztna\parameters\Parameters.class
-java\com\ztna\steps\Login\Login_Steps.class
-java\com\ztna\hooks\AuthenticationHooks.class
-java\com\ztna\hooks\RemembranceHooks.class
-java\com\ztna\hooks\NavigationHooks.class
+com\ztna\parameters\Parameters.class
+com\ztna\hooks\RemembranceHooks.class
+com\ztna\hooks\NavigationHooks.class
+com\ztna\steps\Login\Login_Steps.class
+com\ztna\hooks\AuthenticationHooks.class

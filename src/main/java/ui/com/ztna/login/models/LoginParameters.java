@@ -1,7 +1,7 @@
-package main.java.ui.com.ztna.login.models;
+package ui.com.ztna.login.models;
 
 import com.google.gson.annotations.SerializedName;
-import main.java.indexed.pojo.model.IndexedPojo;
+import indexed.pojo.model.IndexedPojo;
 
 public class LoginParameters extends IndexedPojo {
 

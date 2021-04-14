@@ -1,4 +1,4 @@
-package java.com.ztna.hooks;
+package com.ztna.hooks;
 
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

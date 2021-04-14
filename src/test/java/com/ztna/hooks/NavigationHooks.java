@@ -1,9 +1,9 @@
-package java.com.ztna.hooks;
+package com.ztna.hooks;
 
 import io.cucumber.java.Before;
 import net.serenitybdd.screenplay.Actor;
+import static com.ztna.parameters.Parameters.actor;
 
-import static java.com.ztna.parameters.Parameters.actor;
 
 public class NavigationHooks {
     public final static int ORDER = 3;

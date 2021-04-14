@@ -1,12 +1,13 @@
-package java.com.ztna.steps.Login;
+package com.ztna.steps.Login;
 
 import com.google.gson.JsonObject;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import main.java.ui.com.ztna.login.models.LoginParameters;
+import ui.com.ztna.login.models.LoginParameters;
 
-import static main.java.indexed.pojo.model.IndexedPojoDeserializer.deserializeJsonTo;
+import static indexed.pojo.model.IndexedPojoDeserializer.deserializeJsonTo;
+
 
 public class Login_Steps {
     LoginParameters loginParameters;

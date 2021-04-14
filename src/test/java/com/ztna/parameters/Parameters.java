@@ -1,4 +1,4 @@
-package java.com.ztna.parameters;
+package com.ztna.parameters;
 
 import com.google.gson.JsonObject;
 import io.cucumber.java.ParameterType;
@@ -10,8 +10,8 @@ import org.hamcrest.Matcher;
 import java.io.File;
 import java.util.List;
 
+import static com.ztna.hooks.RemembranceHooks.SCENARIO_MEMORY_KEY;
 import static cucumber.scenarios.example.reader.json.TestData.getExamplesForScenario;
-import static java.com.ztna.hooks.RemembranceHooks.SCENARIO_MEMORY_KEY;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 import static org.hamcrest.Matchers.*;
 import static string.utils.StringUtils.toList;
