@@ -1,4 +1,4 @@
-package com.dvsum.hooks;
+package java.com.ztna.hooks;
 
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

@@ -1,0 +1,17 @@
+{
+
+  "user tries to login": {
+
+    "Admin Login Credentials": {
+      "email": "admin",
+      "password": "admin"
+    },
+
+    "Fahad Login Credentials": {
+      "email": "fahad.malik@emumba.com",
+      "password": "Fahad1234!"
+    }
+
+  }
+
+}

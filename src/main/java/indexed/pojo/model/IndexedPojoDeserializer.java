@@ -1,4 +1,4 @@
-package indexed.pojo.model;
+package main.java.indexed.pojo.model;
 
 import com.google.gson.*;
 
