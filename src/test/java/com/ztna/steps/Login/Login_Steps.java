@@ -4,9 +4,11 @@ import com.google.gson.JsonObject;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import net.serenitybdd.screenplay.actions.Open;
 import ui.com.ztna.login.models.LoginParameters;
 
 import static indexed.pojo.model.IndexedPojoDeserializer.deserializeJsonTo;
+import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 
 
 public class Login_Steps {
