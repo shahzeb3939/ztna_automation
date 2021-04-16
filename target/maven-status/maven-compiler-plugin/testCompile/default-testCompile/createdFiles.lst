@@ -1,5 +1,6 @@
 com\ztna\parameters\Parameters.class
 com\ztna\hooks\RemembranceHooks.class
+com\ztna\acceptancetests\DefaultTestRunner.class
 com\ztna\hooks\NavigationHooks.class
 com\ztna\steps\Login\Login_Steps.class
 com\ztna\hooks\AuthenticationHooks.class
